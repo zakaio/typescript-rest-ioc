@@ -1,4 +1,4 @@
-import { Container } from '@rssh/typescript-ioc';
+import { Container } from '@proofspace/typescript-ioc';
 import * as _ from 'lodash';
 import * as debug from 'debug';
 
