@@ -1,5 +1,5 @@
 {
-  "name": "@rssh/typescript-rest-ioc",
+  "name": "@proofspace/typescript-rest-ioc",
   "version": "1.0.1",
   "description": "A Typescript-Rest Service Factory to integrate it wit typescript-ioc.",
   "author": "Thiago da Rosa de Bustamante <trbustamante@gmail.com>, pathed by rssh: <ruslan@shevchenko.kiev.ua>",
@@ -29,12 +29,12 @@
     "tslint": "^6.1.3",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^4.1.3",
-    "@rssh/typescript-ioc": "git@github.com:rssh/typescript-ioc.git",
-    "@rssh/typescript-rest": "git@github.com:rssh/typescript-rest.git"
+    "@proofspace/typescript-ioc": "git@github.com:zakaio/typescript-ioc.git",
+    "@proofspace/typescript-rest": "git@github.com:zakaio/typescript-rest.git"
   },
   "peerDependencies": {
-    "@rssh/typescript-ioc": "git@github.com:rssh/typescript-ioc.git",
-    "@rssh/typescript-rest": "git@github.com:rssh/typescript-rest.git"
+    "@proofspace/typescript-ioc": "git@github.com:zakaio/typescript-ioc.git",
+    "@proofspace/typescript-rest": "git@github.com:zakaio/typescript-rest.git"
   },
   "keywords": [
     "typescript-rest",
@@ -51,11 +51,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/thiagobustamante/typescript-rest-ioc.git"
+    "url": "https://github.com/zakaio/typescript-rest-ioc.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thiagobustamante/typescript-rest-ioc/issues"
+    "url": "https://github.com/zakaio/typescript-rest-ioc/issues"
   },
   "main": "./dist/typescript-rest-ioc.js",
   "typings": "./dist/typescript-rest-ioc.d.ts",
